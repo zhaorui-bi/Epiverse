@@ -4,7 +4,7 @@
 
 [![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing) [![bulid:passing](https://img.shields.io/appveyor/build/gruntjs/grunt)](https://img.shields.io/appveyor/build/gruntjs/grunt) [![License:GPL](https://img.shields.io/badge/license-GNU-blue)](https://img.shields.io/apm/l/vim-mode) [![pypi-badge](https://img.shields.io/pypi/v/epiverse)](https://pypi.org/project/epiverse) [![Documentation Status](https://readthedocs.org/projects/omicverse/badge/?version=latest)](https://epiverse.readthedocs.io/en/latest/?badge=latest)
 
-Epiverse is the fundamental package for single cell Assay for Transposase-Accessible Chromatin using sequencing (scATAC-seq) with Python. This package is in development, and is not yet ready for use.
+Epiverse is the fundamental package for single cell Assay for Transposase-Accessible Chromatin using sequencing (scATAC-seq) with Python. This package is in development, and is not yet ready for use（in developing）.
 
 ## Directory structure
 
