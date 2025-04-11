@@ -29,7 +29,7 @@ Please checkout the documentations and tutorials at [epiverse.readthedocs.io](ht
 ## Reference
 - [1] [Scanpy](https://github.com/scverse/scanpy) was originally published in [*Genome biology*](https://link.springer.com/article/10.1186/s13059-017-1382-0)
 - [1] [Episcanpy](https://github.com/colomemaria/epiScanpy) was originally published in [*Nature Communications*](https://www.nature.com/articles/s41467-021-25131-3)
-- [1] [SnapATAC2](https://github.com/kaizhang/SnapATAC2) was originally published in [*biorxiv*](https://doi.org/10.1101/2023.09.11.557221)
+- [1] [SnapATAC2](https://github.com/kaizhang/SnapATAC2) was originally published in [*Nature Methods*](https://www.nature.com/articles/s41592-023-02139-9)
 
 
 ## Contact
